@@ -1,0 +1,51 @@
+.twrapper{
+    width: 80%;
+    height: auto;
+    background-color:#f2f2f2;
+
+    margin-left:20%;
+}
+
+ul{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    padding: 0px;
+}
+.sb{
+    width: 18%;
+    height: 100%;
+    background-color: rgb(29, 29, 31);
+    position: absolute;
+
+}
+li.sp{
+    /* padding: 10px; */
+    color:white;
+    list-style: none;
+    width: 100%;
+    
+    height: 40px;
+    /* margin-left: 10px; */
+    margin-top: 10px;
+    position: relative;
+    
+    
+    
+}
+
+.sp a{
+    
+    text-decoration: none;
+    color:white;
+    width: 100%;
+    position: absolute;
+    height: 40px;
+    text-align: center;
+}
+.sp a:hover{
+    background-color: rgb(41, 44, 41);
+    
+    border-right: 2px solid purple;
+  
+}
